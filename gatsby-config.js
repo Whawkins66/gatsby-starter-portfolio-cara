@@ -25,7 +25,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Cara - @lekoarts/gatsby-theme-cara`,
+        name: `Caesar - @lekoarts/gatsby-theme-cara`,
         short_name: `codecaesar.com`,
         description: `codecaesar.com - The Official site of your Emperor of Code`,
         start_url: `/`,
